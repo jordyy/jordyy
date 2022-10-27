@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a project leveraging the Spotify API.
+🌱 I’m currently strengthening my React and CSS skills.
+👯 I’m looking to collaborate on Web3 projects.
+📫 Reach mne by email: jordynavalee@gmail.com
