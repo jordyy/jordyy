@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on a project leveraging the Spotify API.
 </br>
 🌱 I’m currently strengthening my React and CSS skills.
+</br>
 👯 I’m looking to collaborate on Web3 projects.
+</br>
 📫 Reach me by email: jordynavalee@gmail.com
