@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a language learning project using React, Remix, PostgresQL, drizzleORM and getting my CSS chops.
+🔭 I’m currently working on a language learning project using React, Remix, PostgreSQL, drizzleORM and getting my CSS chops.
 </br>
 🌱 I’m currently strengthening my React and CSS skills.
 </br>
