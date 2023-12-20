@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a language learning project using React, Remix, PostgreSQL, drizzleORM and getting my CSS chops.
+🔭 I’m currently building a language learning project using PostgreSQL, drizzleORM/Neon, Remix, React, TypeScript and CSS...with plans to eventually use the openAI API ;).
 </br>
-🌱 I’m currently strengthening my React and CSS skills.
+🌱 I’m currently learning TypeScript.
 </br>
 📫 Reach me by email: jordynavalee@gmail.com
