@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 </br>
 🌱 I’m currently learning TypeScript.
 </br>
+✨ My current goal is to light up my contribution chart with cute lil' green squares for the full year of 2024. 
+</br>
 📫 Reach me by email: jordynavalee@gmail.com
