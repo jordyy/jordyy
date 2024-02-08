@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently building a language learning project (learning languages is my hobby, currently A2 in Italian) using PostgreSQL, drizzleORM/Neon, Remix, React, TypeScript and CSS...with plans to eventually use the openAI API ;).
+🔭 I’m currently building a language learning project (learning languages is my hobby, currently A2 in Italian) using PostgreSQL, drizzleORM/Neon, Remix, React, TypeScript and CSS and the OpenAI API
 </br>
 🌱 I’m currently learning and using TypeScript.
 </br>
