@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently building a language learning project (learning languages is my hobby, currently A2 in Italian) using PostgreSQL, drizzleORM/Neon, Remix, React, TypeScript and CSS and the OpenAI API
+🔭 I’m currently working on a data visualization project. I've analyzed some data with Python and am now learning three.js to make the visualizations interactive. 
 </br>
-🌱 I’m currently learning and using TypeScript.
+🌱 I’m currently learning and using three.js.
 </br>
-✨ My current goal is to light up my contribution chart with cute lil' 🟩s  across the year of 2024. 
+✨ My current goal is to light up my contribution chart with cute lil' 🟩s  across the year of 2024 (not every single day, just all year). 
 </br>
 📫 Reach me by email: jordynavalee@gmail.com
